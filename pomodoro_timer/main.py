@@ -1,5 +1,4 @@
 #Pomodoro timer
-import os 
 from tkinter import *
 import math
 
