@@ -1,9 +1,6 @@
-import os
 import turtle
 from manager import Manager
 import time
-
-os.chdir("C:\\Users\\henri\\Desktop\\estudas\\projects_100days\\project25\\game")
 
 screen = turtle.Screen()
 screen.title("Estados do Brasil Game")
