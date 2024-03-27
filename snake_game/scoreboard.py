@@ -1,7 +1,4 @@
 from turtle import Turtle
-import os
-
-os.chdir("C:\\Users\\henri\\Desktop\\estudas\\projects_100days\\project20")
 
 FONT = ("Courier", 20, "bold")
 ALIGNMENT = "center"
