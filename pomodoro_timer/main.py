@@ -3,7 +3,6 @@ import os
 from tkinter import *
 import math
 
-os.chdir("C:\\Users\\henri\\Desktop\\estudas\\projects_100days\\project28")
 # ---------------------------- CONSTANTS ------------------------------- #
 PINK = "#e2979c"
 RED = "#e7305b"
