@@ -1,8 +1,6 @@
 import pandas as pd
 import turtle
-import os 
 
-os.chdir("C:\\Users\\henri\\Desktop\\estudas\\projects_100days\\project25\\game")
 DATA = pd.read_csv("name_states.csv")
 FONT = ("Courier", 10, "normal")
 
